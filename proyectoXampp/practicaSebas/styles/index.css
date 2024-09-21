@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    background-color:antiquewhite ;
+}
+
+.hdr-index{
+    display: flex;
+    justify-content: flex-start;
+    
+    background: rgb(209,238,174);
+    background: radial-gradient(circle, rgba(209,238,174,1) 0%, rgba(108,210,210,1) 100%);
+
+    width: 100%;
+    border-radius: 20px;
+}
+
+.hdr-item-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-right: 100px;
+}
+
+.header-img{
+    width: 200px;
+    height:200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+}
+
+.hdr-item-title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 40px;
+    margin-right: 100px;
+}
+
+
+.menu-buttons{
+
+}
